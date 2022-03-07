@@ -1,6 +1,6 @@
 ## Desafio arkmeds
 
-### Requisistos 
+### Requisitos 
 1. Ter o python instalado
 
 Para executar o script  da solução  digite no terminal.
