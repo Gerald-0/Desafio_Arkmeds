@@ -10,7 +10,7 @@ python resultado_desafio.py
 
 ```
 
-Para executar o script  para a possível solução solução dos erros, digite no terminal o seguinte comando.
+Para executar o script  para a possíveis soluçoes de erros, digite no terminal o seguinte comando.
 ```
 python propostas_solucoes.py
 
